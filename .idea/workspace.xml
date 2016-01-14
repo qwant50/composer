@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff65b659-b6d8-4a64-8f2d-f7deff66dabf" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/Fixtures/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/.idea/composer.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/app.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/src/Test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/composer/ClassLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/composer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/composer/autoload_classmap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/composer/autoload_namespaces.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/composer/autoload_psr4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/composer/autoload_real.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/composer/installed.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/.php_cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/CHANGELOG.mdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/README.mdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/doc/01-usage.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/doc/02-handlers-formatters-processors.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/doc/03-utilities.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/doc/04-extending.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/doc/sockets.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/phpunit.xml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/ErrorHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Formatter/ChromePHPFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Formatter/ElasticaFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Formatter/FlowdockFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Formatter/FormatterInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Formatter/HtmlFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Formatter/LogglyFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Formatter/LogstashFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Formatter/MongoDBFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Formatter/ScalarFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Formatter/WildfireFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/AbstractHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/AbstractSyslogHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/AmqpHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/BrowserConsoleHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/BufferHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/ChromePHPHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/CouchDBHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/CubeHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/Curl/Util.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/DoctrineCouchDBHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/DynamoDbHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/ElasticSearchHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/ErrorLogHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/FilterHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ActivationStrategyInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ChannelLevelActivationStrategy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ErrorLevelActivationStrategy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/FirePHPHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/FleepHookHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/FlowdockHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/GelfHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/GroupHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/HandlerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/HipChatHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/IFTTTHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/LogEntriesHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/LogglyHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/MailHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/MandrillHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/MissingExtensionException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/MongoDBHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/NativeMailerHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/NewRelicHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/NullHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/PHPConsoleHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/PsrHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/PushoverHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/RavenHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/RedisHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/RollbarHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/RotatingFileHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/SamplingHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/SlackHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/SocketHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/SwiftMailerHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/SyslogHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/SyslogUdp/UdpSocket.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/SyslogUdpHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/TestHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/WhatFailureGroupHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Handler/ZendMonitorHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Logger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/src/Monolog/Registry.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/ErrorHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Formatter/ChromePHPFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Formatter/ElasticaFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Formatter/FlowdockFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Formatter/GelfMessageFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Formatter/JsonFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Formatter/LineFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Formatter/LogglyFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Formatter/LogstashFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Formatter/MongoDBFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Formatter/NormalizerFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Formatter/ScalarFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Formatter/WildfireFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/AbstractHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/AbstractProcessingHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/AmqpHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/BrowserConsoleHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/BufferHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/ChromePHPHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/CouchDBHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/DoctrineCouchDBHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/DynamoDbHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/ElasticSearchHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/ErrorLogHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/FilterHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/FingersCrossedHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/FirePHPHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/FleepHookHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/FlowdockHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/GelfHandlerLegacyTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/GelfHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/GelfMockMessagePublisher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/GroupHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/HipChatHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/LogEntriesHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/MailHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/MockRavenClient.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/MongoDBHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/NativeMailerHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/NewRelicHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/NullHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/PHPConsoleHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/PsrHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/PushoverHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/RavenHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/RedisHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/RotatingFileHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/SamplingHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/SlackHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/SocketHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/StreamHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/SwiftMailerHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/SyslogHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/SyslogUdpHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/TestHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/UdpSocketTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/WhatFailureGroupHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Handler/ZendMonitorHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/LoggerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Processor/GitProcessorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Processor/IntrospectionProcessorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Processor/MemoryPeakUsageProcessorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Processor/MemoryUsageProcessorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Processor/ProcessIdProcessorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Processor/PsrLogMessageProcessorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Processor/TagProcessorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Processor/UidProcessorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/Processor/WebProcessorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/PsrLogCompatTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/RegistryTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/monolog/monolog/tests/Monolog/TestCase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/psr/log/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/psr/log/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/psr/log/Psr/Log/AbstractLogger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/psr/log/Psr/Log/InvalidArgumentException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/psr/log/Psr/Log/LogLevel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/psr/log/Psr/Log/LoggerAwareInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/psr/log/Psr/Log/LoggerAwareTrait.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/psr/log/Psr/Log/LoggerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/psr/log/Psr/Log/LoggerTrait.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/psr/log/Psr/Log/NullLogger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/psr/log/Psr/Log/Test/LoggerInterfaceTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/psr/log/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../composer/vendor/psr/log/composer.json" />
+    </list>
+    <ignored path="test.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../composer/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.125">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <element signature="e#6#91#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="autoload.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../composer/vendor/autoload.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../composer/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.5961537">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../composer/app.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="composer.lock" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../composer/composer.lock">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../composer/src/Test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.408472">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding>
+                <element signature="e#7#92#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../composer" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/Test.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="452" />
+    <option name="y" value="151" />
+    <option name="width" value="1400" />
+    <option name="height" value="835" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="composer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="composer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="composer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../composer" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff65b659-b6d8-4a64-8f2d-f7deff66dabf" name="Default" comment="" />
+      <created>1452780607507</created>
+      <option name="number" value="Default" />
+      <updated>1452780607507</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="452" y="151" width="1400" height="835" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25369823" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913166" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../composer/app.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../composer/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.125">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../composer/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../composer/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5961537">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../composer/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../composer/src/Test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.408472">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="e#7#92#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

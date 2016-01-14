@@ -1,0 +1,9 @@
+{
+    "require": {
+        "monolog/monolog": "^1.15"
+    },
+
+    "autoload": {
+        "psr-4": {"mynamespace\\": "src/"}
+    }
+}
