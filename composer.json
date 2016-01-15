@@ -11,5 +11,6 @@
     "require": {},
     "autoload": {
         "psr-4": {"mynamespace\\": "src/"}
-    }
+    },
+    "version": "1.0.1"
 }
