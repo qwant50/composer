@@ -1,8 +1,14 @@
 {
-    "require": {
-        "monolog/monolog": "^1.15"
-    },
-
+    "name": "qwant50/superliba",
+    "description": "Its a superliba for all!",
+    "authors": [
+        {
+            "name": "qwant50",
+            "email": "qwantonline@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
     "autoload": {
         "psr-4": {"mynamespace\\": "src/"}
     }
